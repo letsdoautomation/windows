@@ -21,7 +21,7 @@ reg unload HKLM\image
 
 ## Automatic method
 
-<b>Remove RunOnce entry with ActiveSetup:</b>
+<b>Remove OneDrive RunOnce entry with ActiveSetup:</b>
 
 ```powershell
 ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\DisableOneDrive" | New-ItemProperty -Name "StubPath" -Value 'REG DELETE "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v OneDriveSetup /f'
