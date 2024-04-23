@@ -1,5 +1,9 @@
 # Windows: Prevent Outlook new and Dev Home from installing for new users
 
+<b>Documentation:</b>
+
+[UpdateOrchestrator API](https://learn.microsoft.com/en-us/windows/win32/updateorchestrator/)
+
 <b>Registry key locations for Outlook and Dev Home:</b>
 
 ```powershell
@@ -19,3 +23,7 @@
     ri $_ -force
 }
 ```
+
+### Related videos
+
+[Windows Configuration Designer: Skip OOBE]()
