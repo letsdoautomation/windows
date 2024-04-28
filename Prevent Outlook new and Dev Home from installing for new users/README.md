@@ -24,6 +24,12 @@
 }
 ```
 
-### Related videos
+## Related videos
+
+<b>Windows Configuration Designer:</b>
 
 [Windows Configuration Designer: Skip OOBE]()
+
+<b>Other powershell videos:</b>
+
+[PowerShell playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RDyVzbV0_kpXCScTMgUw_A)

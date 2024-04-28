@@ -29,11 +29,15 @@ ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\DisableOneDrive" 
 
 ## Related videos
 
-<b>Windows Registry</b>
+<b>Windows Registry:</b>
 
 [Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
 [Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo)
 
-<b>Other powershell videos</b>
+<b>Windows Configuration Designer:</b>
+
+[Windows Configuration Designer: Skip OOBE]()
+
+<b>Other powershell videos:</b>
 
 [PowerShell playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RDyVzbV0_kpXCScTMgUw_A)
