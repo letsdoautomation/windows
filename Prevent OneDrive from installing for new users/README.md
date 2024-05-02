@@ -36,7 +36,7 @@ ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\DisableOneDrive" 
 
 <b>Windows Configuration Designer:</b>
 
-[Windows Configuration Designer: Skip OOBE]()
+[Windows Configuration Designer: Skip Out-Of-Box Experience](https://youtu.be/Lqf4i1nHV7I)
 
 <b>Other powershell videos:</b>
 
