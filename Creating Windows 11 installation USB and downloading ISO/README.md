@@ -27,13 +27,13 @@
 powershell.exe -ExecutionPolicy Bypass -File oobe-setup.ps1
 ```
 
-<b>Execute silent VMware tools installtion:</b>
+<b>Execute silent VMware tools installation:</b>
 
 ```powershell
 cmd /c copy setup64.exe %TEMP% && cmd /c %TEMP%\setup64.exe /S /v "/qn REBOOT=R"
 ```
 
-<b>ReturnCodeSuccess:</b>3010
+<b>ReturnCodeSuccess:</b> 3010
 
 ### Related videos:
 
